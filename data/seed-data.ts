@@ -1,4 +1,4 @@
-import { BitcoinPrice, MacroData, OnChainData, PriceCandle, FearGreedIndex, VolatilityMetrics } from "@/types";
+import { BitcoinPrice, MacroData, OnChainData, PriceCandle, FearGreedIndex, VolatilityMetrics } from "../types";
 
 export const SEED_BITCOIN_PRICE: BitcoinPrice = {
   price: 97420, priceChange24h: 1832, priceChangePct24h: 1.92,
