@@ -597,7 +597,7 @@ export default function Home() {
                   </div>
                 </div>
 
-                <div style={{ fontSize: 12, fontWeight: 600, color: n.color, marginBottom: 12, fontStyle: 'italic', opacity: 0.9 }}>"{n.thesis}"</div>
+                <div style={{ fontSize: 12, fontWeight: 600, color: n.color, marginBottom: 12, fontStyle: 'italic', opacity: 0.9 }}>&quot;{n.thesis}&quot;</div>
 
                 <div style={{ height: 2, background: '#1e2235', borderRadius: 1, marginBottom: 14 }}>
                   <div style={{ height: '100%', width: n.score + '%', background: n.color, borderRadius: 1 }} />
